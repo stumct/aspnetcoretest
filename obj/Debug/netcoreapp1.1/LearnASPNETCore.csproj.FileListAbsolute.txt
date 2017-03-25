@@ -1,0 +1,9 @@
+c:\users\stuar\onedrive\documents\visual studio 2017\Projects\LearnASPNETCore\LearnASPNETCore\bin\Debug\netcoreapp1.1\LearnASPNETCore.deps.json
+c:\users\stuar\onedrive\documents\visual studio 2017\Projects\LearnASPNETCore\LearnASPNETCore\bin\Debug\netcoreapp1.1\LearnASPNETCore.runtimeconfig.json
+c:\users\stuar\onedrive\documents\visual studio 2017\Projects\LearnASPNETCore\LearnASPNETCore\bin\Debug\netcoreapp1.1\LearnASPNETCore.runtimeconfig.dev.json
+c:\users\stuar\onedrive\documents\visual studio 2017\Projects\LearnASPNETCore\LearnASPNETCore\bin\Debug\netcoreapp1.1\LearnASPNETCore.dll
+c:\users\stuar\onedrive\documents\visual studio 2017\Projects\LearnASPNETCore\LearnASPNETCore\bin\Debug\netcoreapp1.1\LearnASPNETCore.pdb
+c:\users\stuar\onedrive\documents\visual studio 2017\Projects\LearnASPNETCore\LearnASPNETCore\obj\Debug\netcoreapp1.1\LearnASPNETCore.csprojResolveAssemblyReference.cache
+c:\users\stuar\onedrive\documents\visual studio 2017\Projects\LearnASPNETCore\LearnASPNETCore\obj\Debug\netcoreapp1.1\LearnASPNETCore.AssemblyInfo.cs
+c:\users\stuar\onedrive\documents\visual studio 2017\Projects\LearnASPNETCore\LearnASPNETCore\obj\Debug\netcoreapp1.1\LearnASPNETCore.dll
+c:\users\stuar\onedrive\documents\visual studio 2017\Projects\LearnASPNETCore\LearnASPNETCore\obj\Debug\netcoreapp1.1\LearnASPNETCore.pdb
